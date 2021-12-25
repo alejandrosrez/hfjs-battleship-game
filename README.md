@@ -6,5 +6,5 @@ As I'm learning JavaScript by taking freecodecamp's courses and by reading "Head
 
 ## Links, resources and more info 
 
-[freecodecamp's course that I'm taking](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
-["Head First JavaScript"](https://www.amazon.es/Head-First-JavaScript-Programming-Freeman/dp/144934013X)
+- [freecodecamp's course that I'm taking](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+- ["Head First JavaScript"](https://www.amazon.es/Head-First-JavaScript-Programming-Freeman/dp/144934013X)
